@@ -4,3 +4,4 @@ modified version.
 Git is a free software.
 Git is a distributed version control system.
 Git test01.
+Git test02.
